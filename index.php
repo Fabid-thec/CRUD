@@ -1,6 +1,6 @@
 <?php
     echo "Hello world!";
-    $name = "zouzou";
+    $name = "welcome";
     echo $name ;
 
 ?>
